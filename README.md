@@ -1,6 +1,6 @@
 # Codice Fiscale
 
-Android application to calculate the Tax Code of a person born in Italy or abroad.
+Android application to calculate the Codice Fiscale of a person born in Italy or abroad.
 
 ## Getting Started
 
