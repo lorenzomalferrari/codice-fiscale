@@ -17,7 +17,7 @@ Enable Developer Option
 
 Download the project to your computer and open it with Android Studio.
 
-Perform any updates recommended by Android Studio.
+Check for updates recommended by Android Studio.
 
 ## Running App
 
