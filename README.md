@@ -1,6 +1,6 @@
 # Codice Fiscale
 
-Android application to calculate the **Codice Fiscale of** a person born in Italy or abroad.
+Android application to calculate the **Codice Fiscale** of a person born in Italy or abroad.
 
 ## Getting Started
 
@@ -15,13 +15,13 @@ Enable Developer Option
 
 ### Installing
 
-Download the project to your computer and open it with **Android Studio**.
+Download the project to your computer and open it with *Android Studio*.
 
-Check for updates recommended by **Android Studio**.
+Check for updates recommended by *Android Studio*.
 
 ## Running App
 
-Run the application by installing it on the **virtual / real** device.
+Run the application by installing it on the *virtual / real* device.
 
 ## Authors
 
